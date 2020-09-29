@@ -1,0 +1,11 @@
+# dependencies
+/comments/node_modules
+/event-bus/node_modules
+/moderation/node_modules
+/posts/node_modules
+/query/node_modules
+
+# Help files from the course
+/005_-_posts
+/021_-_posts
+/023_-_posts
